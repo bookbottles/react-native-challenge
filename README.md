@@ -25,7 +25,7 @@ https://github.com/reddit/reddit/wiki/JSON
 
 ## Notes:
 
-* You can use any existing boilerplate to bootstrap your app, or build your app from scratch . Keep in mind that the app must be easily executable from the command line.
-* Send us your code in a zip file.
+* You can use any existing boilerplate to bootstrap your app, or build your app from scratch. Keep in mind that the app must be easily executable from the command line.
+* Send us your code in a zip file with a README.md doc with instructions on how to run the dev environment and production builds.
 
 Good luck!
