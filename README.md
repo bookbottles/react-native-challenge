@@ -1,3 +1,24 @@
+Here is the version of the challenge I created. I used Expo to generate the project and 
+build the framework with. I had to do a couple iterations while building this as the original 
+ideas didn't work. I ended up using the Switch to switch between both components, which seems 
+adequate for this example, routing probably would be more practical. I generated the Data row 
+using View's and Scrollview and flex. This worked pretty well except I am still having an issue 
+with scrolling I am still looking into but I wanted to get this submitted. This worked and there
+is mostlikey a library that would have made this much easier. I was able to get all the data 
+requested and it could be cleaned up style wise however it seems to be functioning. I am going to 
+continue with it as it is a good project to learn how react differs from angular.
+
+
+TO run
+
+cd redditApp
+npm i
+expo start
+
+Now you have to install expo on your phone or tablet to view the app running. 
+
+
+
 # React Native Coding Challenge
 
 In this challenge you're going to create a basic Reddit app with React Native.

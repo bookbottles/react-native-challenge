@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18e0dd1e-2a51-41b6-bd35-ca839da68d9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.expo/packager-info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.expo/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-native-challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/.buckconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/.expo/packager-info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/.expo/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/RedditPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/RedditRecord.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/__tests__/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/build_defs.bzl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/java/com/reddit/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/java/com/reddit/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/keystores/BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/keystores/debug.keystore.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/icon-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/Reddit.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/Reddit.xcodeproj/xcshareddata/xcschemes/Reddit.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/Reddit/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/Reddit/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/Reddit/Base.lproj/LaunchScreen.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/Reddit/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/Reddit/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/Reddit/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/Reddit/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/RedditTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/ios/RedditTests/RedditTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redditApp/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/redditApp/RedditRecord.ts" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.tsx" />
+        <option value="$PROJECT_DIR$/redditApp/RedditPage.tsx" />
+        <option value="$PROJECT_DIR$/redditApp/RedditRecord.tsx" />
+        <option value="$PROJECT_DIR$/redditApp/App.tsx" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="91" />
+    <option name="y" value="23" />
+    <option name="width" value="1349" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-native-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="redditApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/redditApp/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18e0dd1e-2a51-41b6-bd35-ca839da68d9b" name="Default Changelist" comment="" />
+      <created>1564510830256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564510830256</updated>
+      <workItem from="1564510831585" duration="25986000" />
+      <workItem from="1564666957275" duration="13131000" />
+      <workItem from="1564704096592" duration="76000" />
+      <workItem from="1564704220685" duration="13569000" />
+      <workItem from="1564855189366" duration="36350000" />
+      <workItem from="1565026935511" duration="3710000" />
+      <workItem from="1565034520235" duration="3543000" />
+      <workItem from="1565099817095" duration="638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97003000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="91" y="23" width="1349" height="812" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26778883" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="GraphQL" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="ReST Console" order="3" />
+      <window_info anchor="right" id="JSON Utils" order="4" />
+      <window_info anchor="right" id="Json Parser" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18317358" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="GraphQL" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="ReST Console" order="3" />
+      <window_info anchor="right" id="JSON Utils" order="4" />
+      <window_info anchor="right" id="Json Parser" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/redditApp/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redditApp/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redditApp/ios/Reddit/main.m">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redditApp/ios/Reddit/Base.lproj/LaunchScreen.xib">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="63" column="11" lean-forward="true" selection-start-line="22" selection-end-line="63" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redditApp/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redditApp/app.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redditApp/RedditPage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redditApp/RedditRecord.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redditApp/App.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="97" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="357">
+            <caret line="17" column="77" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
